@@ -61,8 +61,8 @@
 
     function showError(error) {
     console.log(error);
-    $('.result, .link').css('display', 'none');
-    $('.error').css('display', 'block');
+    $('.result-container.succes, .link').css('display', 'none');
+    $('.result-container.error').css('display', 'block');
     switch(error.code) {
         case error.PERMISSION_DENIED:
             $('.error div').text('User denied the request for Geolocation.');
