@@ -1,0 +1,14 @@
+// import scru style.scss
+@import '../../scss/style.scss';
+
+.error {
+    display: none;
+}
+
+#map {
+    height: 250px;
+}
+
+.result-container {
+	@extend %result-spacing;
+}
