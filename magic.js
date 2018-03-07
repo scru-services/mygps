@@ -61,7 +61,7 @@
 
     function showError(error) {
     console.log(error);
-    $('.result-container.succes, .link').css('display', 'none');
+    $('.result-container.success, .link').css('display', 'none');
     $('.result-container.error').css('display', 'block');
     switch(error.code) {
         case error.PERMISSION_DENIED:
