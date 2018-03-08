@@ -11,7 +11,7 @@
 	$project_desc_title = 'example title optimized for SEO'; // goes into a <h2> element
 	$project_desc = 'Unique description optimized for SEO. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'; // goes into a <p> element, no html
 
-	$project_referrals = [0,1,2];
+	$project_referrals = [1,2];
 
 	// keywords for this project
 	$project_keywords = array('keyword', 'keyword');
