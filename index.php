@@ -21,24 +21,24 @@
 				<div class="result lat" contenteditable="true" onclick="document.execCommand('selectAll',false,null)">loading…</div>
 			</div><!-- .result.lat -->
 			<div class="result-container success">
-				<h4>long</h4>
+				<h4>Long</h4>
 				<div class="result long" contenteditable="true" onclick="document.execCommand('selectAll',false,null)">loading…</div>
 			</div><!-- .result.long -->
 			<div class="result-container success">
-				<h4>lat / long</h4>
+				<h4>Lat / Long</h4>
 				<div class="result latlong" contenteditable="true" onclick="document.execCommand('selectAll',false,null)">loading…</div>
 			</div><!-- .result.latlong -->
 			<div class="result-container success">
-				<h4>time / date</h4>
+				<h4>Time / Date</h4>
 				<div class="result time" contenteditable="true" onclick="document.execCommand('selectAll',false,null)">loading…</div>
 			</div><!-- .result.time -->
 			<div class="result-container success">
 				<a class="btn link">
-					loading…
+					Loading…
 				</a>
 			</div>
 			<div class="result-container error">
-				<h4>error</h4>
+				<h4>Error</h4>
 				<div class="result small" contenteditable="true" onclick="document.execCommand('selectAll',false,null)">loading…</div>
 			</div><!-- .result.error -->
 
