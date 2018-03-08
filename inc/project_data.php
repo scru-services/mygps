@@ -9,9 +9,9 @@
 	$project_subdomain = get_subdomain($projects[$project_id][$project_lang]['slug']);
 
 	$project_desc_title = 'Get your GPS Coordinates like a charm'; // goes into a <h2> element
-	$project_desc = 'Unique description optimized for SEO. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'; // goes into a <p> element, no html
+	$project_desc = 'The what is my GPS service displays the latitude and longitude of your devices location.'; // goes into a <p> element, no html
 
-	$project_referrals = [1,2,4];
+	$project_referrals = [1,2,4,5,6];
 
 	// keywords for this project
 	$project_keywords = array(

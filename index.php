@@ -17,11 +17,11 @@
 	<!-- scru-service start -->
 
 	<div class="result-container success">
-				<h4>lat</h4>
+				<h4>Latitude</h4>
 				<div class="result lat" contenteditable="true" onclick="document.execCommand('selectAll',false,null)">loading…</div>
 			</div><!-- .result.lat -->
 			<div class="result-container success">
-				<h4>Long</h4>
+				<h4>Longitude</h4>
 				<div class="result long" contenteditable="true" onclick="document.execCommand('selectAll',false,null)">loading…</div>
 			</div><!-- .result.long -->
 			<div class="result-container success">
